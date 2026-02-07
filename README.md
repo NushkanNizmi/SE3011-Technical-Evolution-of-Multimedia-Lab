@@ -1,4 +1,4 @@
-# SE2011 – Technical Evolution of Multimedia  
+# SE3011 – Technical Evolution of Multimedia  
 ## Lab Sheet 01 (2 Hours): Processing Programming with Creative Coding  
 ### Introduction to Processing & Basic Syntax
 
